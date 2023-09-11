@@ -7,10 +7,10 @@ export const pizzaData = [
     soldOut: false,
   },
   {
-    name: "Pizza Margherita",
-    ingredients: "Tomato and mozarella",
-    price: 10,
-    photoName: "pizzas/Margherita.jpg",
+    name: "Pizza Prosciutto",
+    ingredients: "Tomato, mozarella, ham, aragula, and burrata cheese",
+    price: 18,
+    photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
   },
   {
@@ -34,10 +34,11 @@ export const pizzaData = [
     photoName: "pizzas/salamino.jpg",
     soldOut: true,
   },
+
   {
-    name: "Pizza Prosciutto",
-    ingredients: "Tomato, mozarella, ham, aragula, and burrata cheese",
-    price: 18,
+    name: "Pizza Margherita",
+    ingredients: "Tomato and mozarella",
+    price: 10,
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
   },
